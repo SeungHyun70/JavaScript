@@ -1,2 +1,5 @@
-// the hello world program
-console.log('Hello World');
+function hello(name){
+   console.log("Hello " + name);
+}
+
+hello('node.js');
